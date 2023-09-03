@@ -1,0 +1,11 @@
+JS -Foundation Day 35 - Create a basic api using proper MVC Folder structure with validation
+
+GET
+http://localhost:5000/admin/save_student?name=kiran&surname=rathor
+
+
+const z   = mongoose.model(x,y);
+x = Collection/Table
+y = Schema Defination/ ColumnInformation
+z = ClassName
+const Cat = mongoose.model('Cat', { name: String });
